@@ -1,6 +1,6 @@
-Модуль 25, Задание_25.5.1. Выполнил Макаров А.А., QAP-99
+Module 25, Assignment_25.5.1. performed by Alexander Makarov, QAP-99
 
-Автоматизация тестирования при помощи Silenium
+Testing automation using Silenium
 
-Комментарий к выполнению задания:
-тесты размещены в файле "Assignment 25-5-1.py.
+Comments:
+Tests are located in "Assignment 25-5-1.py" file.
